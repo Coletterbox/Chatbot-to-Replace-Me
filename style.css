@@ -3,8 +3,15 @@ body {
   color: #F0C3D6;
   text-align: center;
   padding-top: 2em;
+  font-family: 'Merriweather', serif;
 }
 
 #face {
-  width: 50%;
+  width: 30%;
   border: 1px solid #F0C3D6;
+}
+
+.text {
+  padding: 1em;
+  color: #000000;
+}
