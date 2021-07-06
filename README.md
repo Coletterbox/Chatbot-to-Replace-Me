@@ -5,3 +5,11 @@
 ### Inspired by my predictive text's weird, almost insulting caricature of me, here is a chatbot that can take over the role of being me.
 
 #### Note to self: The other half of this is stored locally.
+
+---
+
+## Right now it can:
+
+- make small talk (just like me!)
+- remember your name (this is less realistic)
+- answer questions about what I ate
