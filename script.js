@@ -30,8 +30,8 @@ function showGreeting() {
 }
 
 window.onload = function intro() {
-  setInterval(showIntro, 1000);
-  setInterval(showGreeting, 5000);
+  setInterval(showIntro, 500);
+  setInterval(showGreeting, 2500);
 }
 
 // var message = "test";
