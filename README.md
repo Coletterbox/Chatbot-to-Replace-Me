@@ -13,3 +13,7 @@
 - make small talk (just like me!)
 - remember your name (this is less realistic)
 - answer questions about what I ate
+
+![](https://media.giphy.com/media/NnSfgd2KxuP3q/giphy.gif)
+
+
